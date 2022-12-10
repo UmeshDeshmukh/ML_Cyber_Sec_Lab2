@@ -15,4 +15,4 @@ https://github.com/csaw-hackml/CSAW-HackML-2020
   
 https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras 
   
-https://github.com/rishiraj824/YouTube-FaceDataSet-Backdoor-Detection
+
